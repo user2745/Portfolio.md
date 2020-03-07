@@ -17,5 +17,10 @@ kamto
 
 
 Git Projects I've contriubted to
+
 Wordkin: 
 - https://github.com/dnishiyama/wordkin
+
+SSTEM Mycroft
+
+- https://github.com/S-STEM-Team-5
