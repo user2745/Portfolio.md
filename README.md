@@ -14,3 +14,7 @@ Projects
 More to come !
 
 kamto
+
+
+Git Projects I've contriubted to
+Wordkin: https://github.com/dnishiyama/wordkin
