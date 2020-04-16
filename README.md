@@ -1,3 +1,5 @@
+FUTUREWEI START HERE: 
+
 Media Posts
 - https://www.instagram.com/p/BmOlxHtgSoF/
 
@@ -13,12 +15,13 @@ Projects
 
 More to come !
 
-kamto
 
 
 Git Projects I've contriubted to
 
-
 SSTEM Mycroft
 
 - https://github.com/S-STEM-Team-5
+
+
+Please keep me in mind!
