@@ -1,4 +1,4 @@
-FUTUREWEI START HERE: 
+A collection of personal Projects + Resume
 
 Media Posts
 - https://www.instagram.com/p/BmOlxHtgSoF/
@@ -22,8 +22,3 @@ Git Projects I've contriubted to
 SSTEM Mycroft
 
 - https://github.com/S-STEM-Team-5
-
-
-Please keep me in mind!
-
-THIS IS BEING ARCHIVED.
